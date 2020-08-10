@@ -360,7 +360,7 @@
 }
 @media screen and (min-width: 801px) {
     #Imagem-fundo {
-        background: url(Fundo.jpg) 200px no-repeat;
+        background: url(Fundo.jpg) 100% no-repeat;
         position: fixed;
         width: 100%;
         top: 0px;
