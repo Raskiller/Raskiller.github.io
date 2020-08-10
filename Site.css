@@ -358,3 +358,12 @@
         margin-left: 15%;
     }
 }
+@media screen and (min-width: 900px {
+    #Imagem-fundo {
+        background: url(Fundo.jpg) -100px no-repeat;
+        height: 100%;
+        width: 100%;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+}    
