@@ -1,0 +1,359 @@
+html, body {
+    margin: 0;
+}
+body {
+    line-height: 35px;
+}
+header {
+    background-color: rgb(0, 2, 7);
+    color:white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+#logo {
+    width: 96px;
+    position: absolute;
+    top: 10px;
+    margin-left: 5%;
+}
+h3 {
+    text-align: center;
+}
+#menu {
+    float: right;
+    margin-right: 4%;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+}
+li {
+    float: left;
+    padding: 10 15 10 15;
+}
+li:hover {
+    background-color: rgb(0, 129, 168) ;
+}
+.menu {
+    color: white;
+    text-decoration: none;
+}
+#Imagem_fundo {
+    background: url(img/Fundo.jpg) -200px no-repeat;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#titulo {
+    color: white;
+    padding-top: 15%;
+    font-size: 65px;
+    padding-left: 550px;
+}
+
+#subtitulo {
+    color: whitesmoke;
+    padding-left: 55%;
+    font-size: 25px;
+}
+#acao {
+    color: white;
+    border: 1px white solid;
+    padding: 7px 7px 7px 7px;
+    text-decoration: none;
+    margin-left: 55%;
+}
+main {
+    background: #c7f0f0;
+    padding: 30px 30px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.cons {
+    background: #c7f0f0;
+    padding: 30 0 30 0;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin: 20 50 20 50;
+}
+.px {
+    width: 51px;
+}
+#Tema {
+    background-color:#a6dede;
+    padding: 50px 50px;
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#Causas {
+    padding: 60 0 40 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f7f7;
+}
+.selection {
+    float: left;
+    position: relative;
+    padding: 0 5%;
+    width: 10%;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 20px;
+}
+#CF {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}   
+#In {
+    padding: 50 100 30 100;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+#Ds {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+#Ag {
+    padding: 50 100 30 100;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}   
+#Lx {
+    padding: 50 100 30 100;
+    background-color:#a6dede;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.px:hover {
+    background-color: rgb(0, 129, 168);
+    border-radius: 100%;
+    padding: 8px;
+}
+.video {
+    display: block;
+    margin: auto;
+    width: 70%;
+    height:50%;
+}
+#Consequências {
+    padding: 60 0 60 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#a6dede ;
+    clear: both;
+}
+.effects {
+    text-align: center;
+    font-size: 16px;
+    line-height: 20px;
+}
+.consequences {
+    padding-left: 16%;
+    padding-right: 16%;
+}
+.not {
+    width: 100%;
+    height: 50%;
+    padding-top: 10%;
+    padding-bottom: 10% ;
+}
+#Sobre {
+    background-color:#f7f7f7;
+    margin-top: 30px;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+.dois {
+    width: 40%;
+    font-size: 16;
+    line-height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+    background-color: rgb(0, 2, 7);
+    clear: both;
+    float: left;
+    width: 100%;
+    height: 27%;
+    color: white;
+}
+.footer {
+    margin: 20px 0 0 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+.Frase {
+    color: #00830b;
+    font-weight: 900px;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#Ods13 {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40 120 20 120;
+}
+.sub {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.text {
+    text-align: center;
+}
+.justify {
+    text-align: justify;
+}
+.colabore {
+    background-color: #041013;
+    color: #a6dede; 
+    margin: 35 180 20 180; 
+    padding: 20 20; 
+    font-size: 38; 
+    line-height: 45px; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.username {
+    margin-top: 20px;
+    color: black;
+    font-size: 35px;
+}
+.comment {
+    margin: -20 20 10 20;
+    overflow: hidden;
+    display: block;
+    color: black;
+    font-size: 23px;
+    line-height: 25px;
+    text-align: center;
+}
+.test {
+      float: auto;
+}
+.column {
+    float: left;
+    width: 31%;
+    margin: 20px 1.15%;
+    height: 160px;
+    background-color: #64a1a1; 
+    overflow: hidden;
+    border-radius: 10px;
+    
+}
+.solution {
+    overflow: hidden;
+    background-color: #a6dede;
+    border-radius: 5px;
+}
+#Ajude {
+    padding: 30 25 10 25;
+}
+@media all and (max-width:800px) {
+    #menu {
+        visibility: hidden;
+        width: 100%;
+    }
+    #Imagem_fundo {
+        background: url(img/Fundo.jpg)  80% no-repeat;
+       
+    }
+    #subtitulo {
+        padding: 0 20 0 20;
+    }
+    #acao {
+        margin: 0;
+    }
+    #titulo {
+        padding: 100 0 0 0;
+        line-height: 60px;
+    }
+    #Ods13 {
+        padding: 40 20 20 20;
+    }
+    #Causas {
+        padding: 10;
+    }
+    main.cons {
+        margin: 20;
+        padding: 20 0 20 0;
+    }
+    main {
+        margin: -20;
+        padding: 20 20 20 20;
+    }
+    #CF {
+        padding: 20;
+    }
+    #In {
+        padding: 20;
+    }
+    #Ag {
+        padding: 20;
+    }
+    #Ds {
+        padding: 20;
+    }
+    #Lx {
+        padding: 20;
+    }
+    footer {
+        height: 48%;
+    }
+    .footer {
+        margin: 18 20 -5 20;
+        font-size: 16;
+    }
+    .Frase {
+        margin: 15 20 0 20;
+        font-size: 20;
+    }
+    .video {
+        display: block;
+        margin: auto;
+        width: 80%;
+        height:30%;
+    }
+    .comment {
+        font-size: 25px;
+    }
+    .colabore {
+        margin: 0 0 20 0; 
+        font-size: 21;
+        line-height: 25px;
+   
+    }
+    .column {
+        width: 80%;
+        margin: 20 30 20 30;
+        height: 150px;
+    }
+    .selection, .coluna {
+        display: block;
+        width: 80%;
+        float: none;
+        padding: 0;
+        margin: 10px auto;
+    }
+    #logo {
+        margin-left: 34%;
+    }
+    .not {
+        width: 70%;
+        height: 40%;
+        padding-top: 3%;
+        padding-bottom: 7% ;
+        margin-left: 15%;
+    }
+}
