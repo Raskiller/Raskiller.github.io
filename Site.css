@@ -266,7 +266,7 @@ footer {
         width: 100%;
     }
     #Imagem_fundo {
-        background: url(img/Fundo.jpg)  80% no-repeat;
+        background: url(Fundo.jpg)  80% no-repeat;
        
     }
     #subtitulo {
@@ -350,8 +350,8 @@ footer {
         margin-left: 34%;
     }
     .not {
-        width: 70%;
-        height: 40%;
+        width: 100%;
+        height: 60%;
         padding-top: 3%;
         padding-bottom: 7% ;
         margin-left: 15%;
