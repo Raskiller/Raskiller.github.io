@@ -361,8 +361,10 @@
 @media screen and (min-width: 801px) {
     #Imagem-fundo {
         background: url(Fundo.jpg) no-repeat;
-        height: 100%;
+        position: fixed;
         width: 100%;
+        top: 0px;
+        right: 0px;
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
     }
