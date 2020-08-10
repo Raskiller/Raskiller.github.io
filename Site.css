@@ -260,7 +260,7 @@ footer {
 #Ajude {
     padding: 30 25 10 25;
 }
-@media all and (max-width:800px) {
+@media screen and (max-width:800px) {
     #menu {
         visibility: hidden;
         width: 100%;
