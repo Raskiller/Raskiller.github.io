@@ -360,7 +360,7 @@
 }
 @media screen and (min-width: 801px) {
     #Imagem_fundo {
-        background: url(Fundo.jpg) 100% no-repeat;
+        background: url(Fundo.jpg) no-repeat;
         height: 100%;
         width: 100%;
         font-family: Arial, Helvetica, sans-serif;
