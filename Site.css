@@ -362,7 +362,6 @@
     #Imagem_fundo {
         background: url(Fundo.jpg) 100% no-repeat;
         height: 100%;
-        position: fixed;
         width: 100%;
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
