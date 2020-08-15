@@ -262,6 +262,7 @@
     }
     .rs {
         width: 45px;
+        padding-top: 10;
     }
     .rs:hover {
     background-color: white;
@@ -289,10 +290,6 @@
     }
     #Ods13 {
         padding: 40 20 20 20;
-    }
-    .displayed {
-        visibility: hidden;
-        img: url (imageODS.jpg);
     }
     #Causas {
         padding: 10;
