@@ -186,7 +186,7 @@
         clear: both;
         float: left;
         width: 100%;
-        height: 27%;
+        height: 35%;
         color: white;
     }
     .footer {
@@ -259,6 +259,14 @@
     }
     #Ajude {
         padding: 30 25 10 25;
+    }
+    .rs {
+        width: 45px;
+    }
+    .rs:hover {
+    background-color: white;
+    border-radius: 100%;
+    padding: 8px;
     }
 
 @media screen and (max-width:800px) {
