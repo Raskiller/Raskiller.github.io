@@ -281,7 +281,7 @@
         line-height: 60px;
     }
     #Ods13 {
-        padding: 0;
+        visibility: hidden;
     }
     #Causas {
         padding: 10;
