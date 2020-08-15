@@ -284,6 +284,7 @@
     }
     .displayed {
         visibility: hidden;
+        img: url (imageODS.jpg);
     }
     #Causas {
         padding: 10;
