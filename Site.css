@@ -353,12 +353,12 @@
         margin-left: 36%;
     }
     .not {
-        width: 100%;
+        width: 90%;
         height: 60%;
         padding-top: 3%;
         padding-bottom: 7% ;
         padding-right: 10%;
-        margin-left: 15%;
+        margin-left: 10%;
     }
 }
 @media screen and (min-width: 801px) {
