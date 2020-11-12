@@ -275,6 +275,10 @@
     #acao {
         margin: 0;
     }
+    .displayed {
+        height: 40%;
+        width: 50%;
+    }
     #titulo {
         padding: 100 0 0 0;
         line-height: 60px;
