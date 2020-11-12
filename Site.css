@@ -285,6 +285,14 @@
     #Causas {
         padding: 10;
     }
+    main.cons {
+        margin: 20;
+        padding: 20 0 20 0;
+    }
+    main { 
+        margin: -20;
+        padding: 20 20 20 20;
+    }
     #CF {
         padding: 20;
     }
