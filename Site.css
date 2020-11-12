@@ -270,7 +270,7 @@
         background: url(Fundo.jpg)  80% no-repeat;
     }
     #subtitulo {
-        padding: 0 20 0 20;
+        padding: 40 20 0 20;
     }
     #acao {
         margin: 0;
@@ -280,7 +280,7 @@
         width: 120%;
     }
     #titulo {
-        padding: 100 0 0 0;
+        padding: 300 0 0 0;
         line-height: 60px;
     }
     #Ods13 {
