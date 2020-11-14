@@ -351,11 +351,11 @@
     }
     .not {
         width: 90%;
-        height: 35%;
+        height: 30%;
         padding-top: 3%;
         padding-bottom: 7% ;
         padding-right: 10%;
-        margin-left: 6%;
+        margin-left: 3%;
     }
 }
 @media screen and (min-width: 801px) {
